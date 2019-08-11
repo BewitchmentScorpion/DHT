@@ -1,0 +1,12 @@
+ppca-dht
+
+*.log
+
+*.go
+userdef.go
+
+!interface.go
+!main.go
+!standard.go
+!advanced.go
+!utils.go
